@@ -16,3 +16,4 @@ This project performs image-based recognition with Deep Learning using Keras.Thi
 ## Notes
 - No additional setup is required.
 - Data is fetched from a shared Google storage system
+- WARNING: This project utilizes deep learning and takes approximately 1 hour to execute all iterations with different hyperparameters
