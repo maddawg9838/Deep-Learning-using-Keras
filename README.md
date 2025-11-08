@@ -7,6 +7,9 @@ This project performs image-based recognition with Deep Learning using Keras.Thi
 - `CS 4372 Project 3.ipynb` — The Google Colab notebook containing the full analysis code.
 - `README.md` — This README.
 
+## Assumptions
+- The Dog Breed Identification dataset had a testing dataset without true labels, thus we utilized the training dataset and divided it into training, testing, and validating datasets.
+
 ## Instructions
 1. Open [Google Colab](https://colab.research.google.com/).
 2. Click **File → Upload notebook** and select `CS 4372 Project 3.ipynb`.
