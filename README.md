@@ -19,3 +19,5 @@ This project performs image-based recognition with Deep Learning using Keras.Thi
 
 ## WARNING: 
 This project utilizes deep learning and takes approximately 1 hour to execute all iterations with different hyperparameters
+
+Note: A PDF of the code and outputs will be provided due to the lengthy execution time
