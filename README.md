@@ -6,6 +6,7 @@ This project performs image-based recognition with Deep Learning using Keras.Thi
 ## Files
 - `CS 4372 Project 3.ipynb` — The Google Colab notebook containing the full analysis code.
 - `README.md` — This README.
+- `CS 4372 Project 3.pdf` - A previous iteration of the Google Colab notebook ran.
 
 ## Instructions
 1. Open [Google Colab](https://colab.research.google.com/).
@@ -20,4 +21,4 @@ This project performs image-based recognition with Deep Learning using Keras.Thi
 ## WARNING: 
 This project utilizes deep learning and takes approximately 1 hour to execute all iterations with different hyperparameters
 
-Note: A PDF of the code and outputs will be provided due to the lengthy execution time
+Note: A PDF of a previous iteration of the code and outputs will be provided due to the lengthy execution time
