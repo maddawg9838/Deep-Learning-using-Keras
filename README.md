@@ -6,7 +6,7 @@ This project performs image-based recognition with Deep Learning using Keras.Thi
 ## Files
 - `CS 4372 Project 3.ipynb` — The Google Colab notebook containing the full analysis code.
 - `README.md` — This README.
-- `CS 4372 Project 3.pdf` - A previous iteration of the Google Colab notebook ran.
+- `CS 4372 Project 3.pdf` - A PDF of a previous iteration of the Google Colab notebook run.
 
 ## Instructions
 1. Open [Google Colab](https://colab.research.google.com/).
