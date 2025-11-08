@@ -9,8 +9,8 @@ This project performs image-based recognition with Deep Learning using Keras.Thi
 
 ## Instructions
 1. Open [Google Colab](https://colab.research.google.com/).
-2. Click **File → Upload notebook** and select `CS 4372 Assignment 2.ipynb`.
-4. Make sure you are connected to a runtime.
+2. Click **File → Upload notebook** and select `CS 4372 Project 3.ipynb`.
+4. Make sure you are connected to the GPU runtime.
 5. Run all cells sequentially. All necessary libraries are already imported and installed within the notebook.
 
 ## Notes
