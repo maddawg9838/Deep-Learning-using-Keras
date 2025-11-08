@@ -4,7 +4,7 @@
 This project performs image-based recognition with Deep Learning using Keras.This project involves transfer learning with the MobileNet V2 Model, and then training on the Dog Breed Identification dataset from Kaggle.  
 
 ## Files
-- `CS 4372 Assignment 3.ipynb` — The Google Colab notebook containing the full analysis code.
+- `CS 4372 Project 3.ipynb` — The Google Colab notebook containing the full analysis code.
 - `README.md` — This README.
 
 ## Instructions
